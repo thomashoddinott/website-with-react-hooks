@@ -2,7 +2,7 @@ Website using React Router
 
 **To do:**
 
-had to move `/images` and `/videos` into `/src` folder in order to load them, but this should be the case. They should live fine in `/public`. As a result, this content is quite working. 
+had to move `/images` and `/videos` into `/src` folder in order to load them, but this shouldn't be the case. They should live fine in `/public`. As a result, this content is quite working. 
 
 ---
 
