@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+Website using React Router
+
+**To do:**
+
+had to move `/images` and `/videos` into `/src` folder in order to load them, but this should be the case. They should live fine in `/public`. As a result, this content is quite working. 
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
